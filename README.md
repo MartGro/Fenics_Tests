@@ -25,7 +25,7 @@ install it by typing
 
     sudo apt install feh
 
-in the commandline.
+in the commandline (in the docker-commandline, not your local machine).
 
 Then you can view an image by using:
 
