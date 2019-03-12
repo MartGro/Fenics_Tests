@@ -10,6 +10,7 @@ The local directory (cwd) is shared to home/fenics/shared by
 
 
 The graphics access works by:
+
     -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix (already included above)
 
 In order for this to work, this command has to be executed before the docker command:
